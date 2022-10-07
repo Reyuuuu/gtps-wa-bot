@@ -3,8 +3,8 @@ const chalk = require("chalk");
 const { doesNotThrow } = require("assert");
 
 // Other
-global.owner = ["6282370784874", "6283809215245"];
-global.staff = ["6283809215245"];
+global.owner = ["6287831305832", ""];
+global.staff = ["6287831305832"];
 global.footer = "Dignity by akbarr.dev";
 global.sessionName = "dignity";
 global.prefa = ["", "/", "!", "."]; // "" = no prefix
