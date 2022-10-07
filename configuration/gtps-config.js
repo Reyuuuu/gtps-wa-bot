@@ -3,8 +3,8 @@ const chalk = require("chalk");
 
 module.exports = {
   // Server Information 
-  servername: "NevolutionPS",
-  serverowner: "akbarrdev",
+  servername: "GoatPS",
+  serverowner: "Reyu",
   serverwebsite: "https://demo.gtps.app",
   linkhost: "https://demo.gtps.app/download",
   // Gapunya website? beli di https://gtps.app/pricing aja, cuma 2 dlan
